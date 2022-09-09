@@ -10,10 +10,10 @@
 
 int main(void)
 {
-  int n;
+int n;
 
-  srand(time(0));
-  n = rand() - RAND_MAX / 2;
+srand(time(0));
+n = rand() - RAND_MAX / 2;
 #include <stdio.h>
 #include <time.h>
 #include <stdlib.h>

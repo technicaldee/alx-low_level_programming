@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 int main(void){
-  char alphabets;
+char alphabets;
 
-  for (alphabets='a'; alphabets <= 'z'; alphabets++)
-    putchar(alphabets);
-  putchar('\n');
-  return (0)
+for (alphabets='a'; alphabets <= 'z'; alphabets++)
+  putchar(alphabets);
+putchar('\n');
+return (0);
 }
