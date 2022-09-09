@@ -1,6 +1,12 @@
-#include <stdio.h>
+0;10;1c#include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
+
+     /**
+      * main - prints all possible combinations of single-digits
+      *separated by , and followe by a space
+      * Return: always 0.
+      */
 
 int main(void)
 {
