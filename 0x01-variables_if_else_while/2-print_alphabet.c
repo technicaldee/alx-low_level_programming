@@ -1,4 +1,4 @@
-#include <stdio.h>
+0;10;1c0;10;1c#include <stdio.h>
 
 /**
  * main - prints all possible combinations of single-digits
@@ -10,9 +10,9 @@ int main(void)
 {
 char alphabets;
 
-for (alphabets='a'; alphabets <= 'z'; alphabets++){
+for (alphabets='a'; alphabets <= 'z'; alphabets++)
 putchar(alphabets);
-}
+
 putchar('\n');
 return (0);
 }
