@@ -6,7 +6,7 @@
 * Return: void
 */
 
-void rev_string(char *s)
+void puts2(char *s)
 {
 char *start, *end, tmp;
 int len = 0, c;
